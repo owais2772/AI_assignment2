@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702295516 source:d:\ms robotics\artificial intelligence\codes\astar\astar.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	"header_files/priority_queue.h"
+	"header_files/queue.h"
+
+1700993188 d:\ms robotics\artificial intelligence\codes\astar\header_files\priority_queue.h
+	<iostream>
+
+1701588476 d:\ms robotics\artificial intelligence\codes\astar\header_files\queue.h
+
